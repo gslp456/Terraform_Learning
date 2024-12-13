@@ -1,0 +1,14 @@
+1. Automate the provisioning and configuration of infrastructure
+   Ex: To create a Kubernetes cluster which contains 3 Control     planes and 5 worker nodes. Define everything in the terraform   Infrastructure as a code and run against the targets.
+
+   Advantages of Terraform:
+	> Suitable for any platform or any cloud.
+   
+   Other type of IAC:
+	> AWS Cloud Formation Templates
+  	> Azure Resource Manager
+	> Openstack Heat templates
+	> Crossplane 
+	> Pulumi
+
+
